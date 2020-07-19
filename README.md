@@ -1,4 +1,4 @@
-#**DOUGLAS QA Challenge**
+**DOUGLAS QA Challenge**
 
 `Automation suite for validation Login feature`
 
